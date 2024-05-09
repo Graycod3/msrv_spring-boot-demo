@@ -1,0 +1,1 @@
+# msrv_spring-boot-demo
